@@ -1,8 +1,4 @@
-/* ============================================
-   RESPONSIVE - REGISTRO FOTOGRÁFICO
-   ============================================ */
 
-/* ---------- Tablets (768px - 1023px) ---------- */
 @media (max-width: 1023px) {
     .gallery-grid {
         grid-template-columns: repeat(3, 1fr);

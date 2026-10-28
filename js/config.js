@@ -1,9 +1,3 @@
-/**
- * ============================================
- * CONFIGURACIÓN DEL SISTEMA
- * Registro Fotográfico de Fiscalización
- * ============================================
- */
 
 'use strict';
 

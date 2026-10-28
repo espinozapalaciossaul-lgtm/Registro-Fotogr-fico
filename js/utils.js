@@ -1,9 +1,3 @@
-/**
- * ============================================
- * UTILIDADES GENERALES
- * Funciones auxiliares reutilizables
- * ============================================
- */
 
 'use strict';
 

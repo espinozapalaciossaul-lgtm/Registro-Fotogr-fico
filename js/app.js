@@ -1,9 +1,3 @@
-/**
- * ============================================
- * PUNTO DE ENTRADA
- * Coordina datos, captura, interfaz y exportación
- * ============================================
- */
 
 'use strict';
 
